@@ -1,3 +1,4 @@
+npm start
 # File API của project Digital Art
 
 ## API /users/
