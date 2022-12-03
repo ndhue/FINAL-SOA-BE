@@ -1,8 +1,5 @@
-npm start
 # File API của project Digital Art
 
-## API /users/
-users/{id} - Lấy thông tin về user đó bằng id
-
-
-## API /orders/
+Bật xampp -> tomcat và mySQL
+import database digitalartdb.sql
+Để chạy API ta mở cmd thư mục chứa code -> npm start
